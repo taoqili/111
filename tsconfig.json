@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "outDir": "./dist",
+        "outDir": "./cutler",
         "module": "esnext",
         "target": "es6",
         "lib": ["es6", "dom"],
